@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-weidth, initial=scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/33/w3.css">
+<body>
+<nav class="w3-bar w3-black">
+	<a href="#home" class="w3-button w3-bar-item">Home</a>
+	<a href="#about" class="w3-button w3-bar-item">About</a>
+	<a href="#Contact" class="w3-button w3-bar-item">Contact</a>
+</nav>
+<section>
+<img class="picutre" src="Irene.jpg" style = "width:100%">
+</section>
+<section classs="w3-container w3-center" style=:max-width:600px">
+	<h2 class="w3-wide">Jason Au</h2>
+	<p class="w3-opacity"><i>Second year Computer Engineering student attending the Rochester Institute of Technology. Born and raised in Rochester, and set to graduate in 2022.</i></p>
+
+
+</body>
+</html>
